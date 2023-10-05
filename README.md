@@ -1,1 +1,1 @@
-My React project
+My React movie card
